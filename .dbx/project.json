@@ -2,8 +2,8 @@
   "environments": {
     "default": {
       "profile": "DEFAULT",
-      "workspace_dir": "/Users/juhe/Code",
-      "artifact_location": "/Users/juhe/Code/cicd_template_new"
+      "workspace_dir": "/Users/juhe@runtastic.com",
+      "artifact_location": "/Users/juhe@runtastic.com/cicd_template_new"
     }
   }
 }
