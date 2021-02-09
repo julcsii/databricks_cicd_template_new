@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "DEFAULT",
+      "workspace_dir": "/Users/juhe/Code",
+      "artifact_location": "/Users/juhe/Code/cicd_template_new"
+    }
+  }
+}
